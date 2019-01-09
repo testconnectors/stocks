@@ -452,7 +452,21 @@
       "peRatio": 235.18,
       "week52High": 333.98,
       "week52Low": 138.66,
-      "ytdChange": 0.46202814940071
+      "ytdChange": 0.46202814940071,
+      "timeRecords": {
+        "today": {
+          "open": 100.15,
+          "close": 123.15
+        },
+        "yesterday": {
+          "open": 132.44,
+          "close": 100.15
+        },
+        "oneYear": {
+          "open": 74.34,
+          "close": 100.15 
+        }
+      }
     }
   },
   "KO": {
