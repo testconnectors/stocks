@@ -91,7 +91,21 @@
       "peRatio": 53.42,
       "week52High": 53.91,
       "week52Low": 31.32,
-      "ytdChange": 0.073378466914173
+      "ytdChange": 0.073378466914173,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "AAPL": {
@@ -131,7 +145,21 @@
       "peRatio": 17.76,
       "week52High": 183.5,
       "week52Low": 140.06,
-      "ytdChange": 0.0072248565374898
+      "ytdChange": 0.0072248565374898,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "GOOG": {
@@ -171,7 +199,21 @@
       "peRatio": 59.41,
       "week52High": 1186.89,
       "week52Low": 817.0201,
-      "ytdChange": -0.034920187793427
+      "ytdChange": -0.034920187793427,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "AMZN": {
@@ -212,7 +254,21 @@
       "week52High": 1617.54,
       "week52Low": 884.49,
       "ytdChange": 0.22097375127207,
-      "callCenterNumber": 8008675309
+      "callCenterNumber": 8008675309,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "FB": {
@@ -252,7 +308,21 @@
       "peRatio": 25.91,
       "week52High": 195.32,
       "week52Low": 138.81,
-      "ytdChange": -0.12170653731672
+      "ytdChange": -0.12170653731672,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "TSLA": {
@@ -292,7 +362,21 @@
       "peRatio": -26.72,
       "week52High": 389.61,
       "week52Low": 244.5901,
-      "ytdChange": -0.046204723426824
+      "ytdChange": -0.046204723426824,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "NVDA": {
@@ -332,7 +416,21 @@
       "peRatio": 71.88,
       "week52High": 254.5,
       "week52Low": 95.49,
-      "ytdChange": 0.11119922982017
+      "ytdChange": 0.11119922982017,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "JNJ": {
@@ -372,7 +470,21 @@
       "peRatio": 17.91,
       "week52High": 148.32,
       "week52Low": 120.95,
-      "ytdChange": -0.055181970174369
+      "ytdChange": -0.055181970174369,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "AGNC": {
@@ -412,7 +524,21 @@
       "peRatio": 7.48,
       "week52High": 22.34,
       "week52Low": 17.8375,
-      "ytdChange": -0.027352800037151
+      "ytdChange": -0.027352800037151,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   },
   "NFLX": {
@@ -506,7 +632,21 @@
       "peRatio": 23.25,
       "week52High": 48.615,
       "week52Low": 42.19,
-      "ytdChange": -0.016426126734823
+      "ytdChange": -0.016426126734823,
+      "timeRecords": {
+        "today": {
+          "open": 165.12,
+          "close": 160.15
+        },
+        "yesterday": {
+          "open": 155.44,
+          "close": 160.15
+        },
+        "oneYear": {
+          "open": 99.34,
+          "close": 101.12 
+        }
+      }
     }
   }
  }
