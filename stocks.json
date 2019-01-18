@@ -92,6 +92,7 @@
       "week52High": 53.91,
       "week52Low": 31.32,
       "ytdChange": 0.073378466914173,
+      "active": true,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -146,6 +147,7 @@
       "week52High": 183.5,
       "week52Low": 140.06,
       "ytdChange": 0.0072248565374898,
+      "active": true,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -200,6 +202,7 @@
       "week52High": 1186.89,
       "week52Low": 817.0201,
       "ytdChange": -0.034920187793427,
+      "active": true,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -255,6 +258,7 @@
       "week52Low": 884.49,
       "ytdChange": 0.22097375127207,
       "callCenterNumber": 8008675309,
+      "active": true,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -309,6 +313,7 @@
       "week52High": 195.32,
       "week52Low": 138.81,
       "ytdChange": -0.12170653731672,
+      "active": false,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -363,6 +368,7 @@
       "week52High": 389.61,
       "week52Low": 244.5901,
       "ytdChange": -0.046204723426824,
+      "active": false,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -417,6 +423,7 @@
       "week52High": 254.5,
       "week52Low": 95.49,
       "ytdChange": 0.11119922982017,
+      "active": false,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -471,6 +478,7 @@
       "week52High": 148.32,
       "week52Low": 120.95,
       "ytdChange": -0.055181970174369,
+      "active": false,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -525,6 +533,7 @@
       "week52High": 22.34,
       "week52Low": 17.8375,
       "ytdChange": -0.027352800037151,
+      "active": false,
       "timeRecords": {
         "today": {
           "open": 165.12,
@@ -579,6 +588,7 @@
       "week52High": 333.98,
       "week52Low": 138.66,
       "ytdChange": 0.46202814940071,
+      "active": false,
       "timeRecords": {
         "today": {
           "open": 100.15,
@@ -633,6 +643,7 @@
       "week52High": 48.615,
       "week52Low": 42.19,
       "ytdChange": -0.016426126734823,
+      "active": false,
       "timeRecords": {
         "today": {
           "open": 165.12,
